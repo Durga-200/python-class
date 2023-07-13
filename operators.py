@@ -1,0 +1,10 @@
+a=45
+b=6
+c=a+b
+print(c)
+c=a-b
+print(c)
+c=a*b
+print(c)
+c=a/b
+print(c)
